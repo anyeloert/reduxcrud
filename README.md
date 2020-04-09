@@ -9,3 +9,5 @@ Tecnologías usadas en el proyecto:
 -Redux
 -Hooks
 -Axios
+-Json Server
+-React Router Dom
