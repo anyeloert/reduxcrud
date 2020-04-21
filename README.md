@@ -11,3 +11,4 @@ Tecnologías usadas en el proyecto:
 -Axios
 -Json Server
 -React Router Dom
+-Bootstrap
